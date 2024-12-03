@@ -1,6 +1,6 @@
 
 contourpy==1.0.6
-    # via matplotlib
+    
 cycler==0.11.0
     # via matplotlib
 fonttools==4.38.0
@@ -28,8 +28,7 @@ scipy==1.9.3
 seaborn==0.10.1
     # via -r requirements.in
 six==1.16.0
-    # via python-dateutil
-cycler==0.11.0
+
 numpy==1.21.0
 pandas==1.3.0
 flask==2.0.0
